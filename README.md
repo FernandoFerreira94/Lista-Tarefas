@@ -1,28 +1,28 @@
-Lista de Tarefas 
-Descrição do Projeto
+<h1> <strong>Lista de Tarefas</strong>   </h1>  
+<h3>Descrição do Projeto</h3> 
 Este projeto é uma aplicação simples de lista de tarefas desenvolvida com React. A aplicação permite aos usuários adicionar, editar e remover tarefas, proporcionando uma interface intuitiva e funcional.
 
-Funcionalidades
-Adicionar Tarefas: Permite aos usuários adicionar novas tarefas à lista.
+<h4>Funcionalidades:</h4>
+<p>Adicionar Tarefas: Permite aos usuários adicionar novas tarefas à lista.</p>
 
-Editar Tarefas: Usuários podem editar tarefas existentes.
+<p>Editar Tarefas: Usuários podem editar tarefas existentes.</p>
 
-Remover Tarefas: Usuários podem remover tarefas da lista.
+<p>Remover Tarefas: Usuários podem remover tarefas da lista.</p>
 
-Feedback Visual: Ícones e animações para melhorar a experiência do usuário.
+<p>Feedback Visual: Ícones e animações para melhorar a experiência do usuário.</p>
 
-Tecnologias Utilizadas
-React: Biblioteca JavaScript para construção de interfaces de usuário.
+<h4>Tecnologias Utilizadas</h4>
 
-React Icons: Biblioteca de ícones para adicionar elementos visuais atraentes.
+<p>React: Biblioteca JavaScript para construção de interfaces de usuário.</p>
+<p>React Icons: Biblioteca de ícones para adicionar elementos visuais atraentes.</p>
 
-CSS: Folhas de estilo para estilizar a aplicação.
+<p>CSS: Folhas de estilo para estilizar a aplicação.</p>
 
-Git: Controle de versão para gerenciar o desenvolvimento do projeto.
+<p>Git: Controle de versão para gerenciar o desenvolvimento do projeto.</p>
 
-Visual Studio Code: Editor de código utilizado para desenvolver a aplicação.
+<p>Visual Studio Code: Editor de código utilizado para desenvolver a aplicação.</p>
 
-Instalação
+<h4>Instalação</h4>
 Para instalar e rodar a aplicação localmente, siga os passos abaixo:
 
 Clone o repositório:
