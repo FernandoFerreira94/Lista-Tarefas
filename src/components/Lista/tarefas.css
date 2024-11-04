@@ -1,0 +1,39 @@
+
+.tarefas {
+  width: 66.5%;
+}
+
+.tarefas li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s;
+}
+
+li:hover {
+  border-bottom: 1px solid black;
+  cursor: default;
+}
+
+.btnTarefas {
+  display:flex;
+  gap: 5px;
+}
+
+.edit, .close {
+  cursor:pointer;
+}
+
+.edit:hover, .close:hover{
+  border: 1px solid black;
+}
+
+.edit {
+  color: green;
+}
+
+.close {
+  color: red;
+}
